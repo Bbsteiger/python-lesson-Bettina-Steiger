@@ -3,7 +3,7 @@
 Hier ist mein Jupyter Notebook zu Python und Pandas
 
 ## Autorin: Bettina Steiger
-
-# Datum: 04.05.21
+## Co-Autor: Andreas Busch
+# Datum: 11.05.21
 
 
